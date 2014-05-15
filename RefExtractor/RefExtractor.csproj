@@ -64,7 +64,6 @@
     <Compile Include="Data\Reference.cs" />
     <Compile Include="Data\Repositories\FakeRepository.cs" />
     <Compile Include="Data\Repositories\SqlRepository.cs" />
-    <Compile Include="FileTraceListener.cs" />
     <Compile Include="Html\HtmlTag.cs" />
     <Compile Include="Html\HtmlTagsParser.cs" />
     <Compile Include="Html\HtmlRetriever.cs" />
